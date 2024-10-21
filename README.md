@@ -1,4 +1,4 @@
-# Genrerate chitin/chitosan polymer .pdb (.gro) file 
+# Generate chitin/chitosan polymer .pdb (.gro) file 
 
 This script creates a chitosan molecule chain compatible with
 GROMOS 56Acarbo force field developed by Naumov & Ignatov
